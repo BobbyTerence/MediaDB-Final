@@ -1,0 +1,5 @@
+# DS_Store
+*.DS_Store
+
+# Ignore the image I had to submit when I turned it in
+*.png
